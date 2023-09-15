@@ -9,3 +9,4 @@ Tentarei escrever sobre a construção de todos no meu perfil do Medium.
 
 ## Snake Game
 [Deploy do projeto](https://snake-game-three-gold.vercel.app/)
+[Artigo do projeto](https://medium.com/@tirianx/javascript-na-p%C3%A1tica-construindo-o-snake-game-a772f7353eac)
